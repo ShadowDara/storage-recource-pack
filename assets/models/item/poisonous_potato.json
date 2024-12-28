@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/poisonous_potato"
+    },
+    "overides": [
+        {"predicate": {"minecraft:custom_model_data": 444001}, "model": "item/poisonous_potato/storage_terminal"}
+    ]
+  }

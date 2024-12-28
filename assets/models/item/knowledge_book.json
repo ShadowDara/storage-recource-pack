@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "minecraft:item/knowledge_book"
+ },
+ "overrides": [
+  { "predicate": { "custom_model_data": 444002}, "model": "item/knowledge_book/cobblestone_disk" },
+  { "predicate": { "custom_model_data": 444003}, "model": "item/knowledge_book/copper_disk" },
+  { "predicate": { "custom_model_data": 444004}, "model": "item/knowledge_book/iron_disk" },
+  { "predicate": { "custom_model_data": 444005}, "model": "item/knowledge_book/gold_disk" },
+  { "predicate": { "custom_model_data": 444006}, "model": "item/knowledge_book/emerald_disk" }
+ ]
+}
